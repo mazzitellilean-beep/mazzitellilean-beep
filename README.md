@@ -2,7 +2,7 @@
 
 # Hey, I'm Leandro Mazzitelli 👋
 
-### AI & Data Science Student · Aspiring Data Analyst · Lifelong Learner
+### AI & Data Science Student · Aspiring Data Analyst/Scientist/Engineer / AI Engineer · Lifelong Learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-mazzitelli/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazzitelli.lean@gmail.com)
@@ -38,7 +38,7 @@ I'm currently **competing in an internal Python Hackathon** at my university. It
 📁 **Want to follow my progress?**  
 Check out the dedicated public repository for the hackathon — all the code, iterations, and problem-solving are documented there as the competition unfolds.
 
-> *(Repository link will be pinned below once published)*
+> (https://github.com/mazzitellilean-beep/copa-algoritmia)
 
 ---
 
