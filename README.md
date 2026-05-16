@@ -18,7 +18,7 @@ I'm a **Data Science and AI** student at **UADE** (Universidad Argentina de la E
 
 I'm at that exciting stage of my career where everything is still ahead of me: new tools to learn, first real projects to ship, and the groundwork of a professional life in tech to lay down. I don't just study data science — I'm genuinely obsessed with it. The intersection of mathematics, programming, and real-world decision-making is exactly where I want to be.
 
-I'm **available to start working immediately** and eager to contribute to teams where I can keep growing while delivering real value. Whether it's as a **Data Analyst**, a **Junior Data Scientist**, or any role that gets me hands-on with data — I'm in.
+I'm **available to start working immediately** and eager to contribute to teams where I can keep growing while delivering real value. Whether it's as a **Data Analyst**, **Data Scientist**, **Data Engineer** or **AI Engineer** — I'm in.
 
 ---
 
@@ -27,7 +27,7 @@ I'm **available to start working immediately** and eager to contribute to teams 
 **Bachelor's Degree in Artificial Intelligence and Data Science**  
 📍 Universidad Argentina de la Empresa (UADE) — *In progress*
 
-My curriculum covers the full spectrum of modern AI and data work: statistical modeling, machine learning, data engineering, Python programming, deep learning fundamentals, and applied data analysis. I complement my coursework with self-directed learning — reading papers, following the field, and building things.
+My curriculum covers the full spectrum of modern AI and data work: statistical modeling, machine learning, data engineering, Python programming, deep learning fundamentals, and applied data analysis. I complement my coursework with self-directed learning — reading papers, following the field, and building things and personal projects.
 
 ---
 
@@ -45,12 +45,12 @@ Check out the dedicated public repository for the hackathon — all the code, it
 ## 🚀 What I'm Looking For
 
 - 🔍 **First professional experience** in data science, data analysis, or adjacent roles
-- 📊 Willing to start as a **Data Analyst** — I see it as a powerful foundation, not a fallback
+- 📊 Willing to start as a **Trainee** in any of the already mentioned roles
 - 🤝 Collaborative environments where I can **learn from experienced professionals**
 - 🛠️ Projects that involve **real data, real decisions, and real impact**
 - 🌱 Any opportunity that helps me **grow fast** and contribute meaningfully from day one
 
-I'm not looking for the perfect role — I'm looking for the right one to start building a serious career in data science. I bring energy, adaptability, and a genuine drive to understand things deeply.
+I'm not looking for the perfect role — I'm looking for the right one to start building a serious career. I bring energy, adaptability, and a genuine drive to understand things deeply.
 
 ---
 
