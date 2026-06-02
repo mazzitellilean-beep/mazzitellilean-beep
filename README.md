@@ -88,7 +88,6 @@ Currently building foundational skills in:
 
 - **Descriptive & inferential statistics** — measures of central tendency, dispersion, probability distributions
 - **Data visualization** — creating meaningful plots and charts to communicate insights from data (histograms, scatter plots, boxplots, and more)
-- Applying these concepts in both **Python** (matplotlib, seaborn) and **R** (ggplot2)
 
 ---
 
@@ -107,6 +106,7 @@ Currently building foundational skills in:
 ## 📂 Projects
 
 > 🔧 *I'm in the early stages of building my public portfolio. Watch this space — projects are on the way.*
+> 📊 *I'm developing a trading-related project as the final exam for my Programming class.*
 
 I'm actively looking to start new projects: collaborations, open-source contributions, or anything that puts real problems in front of me. If you have an idea and need a motivated partner, reach out.
 
