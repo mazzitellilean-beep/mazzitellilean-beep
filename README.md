@@ -105,8 +105,8 @@ Currently building foundational skills in:
 
 ## 📂 Projects
 
-> 🔧 *I'm in the early stages of building my public portfolio. Watch this space — projects are on the way.*
-> 📊 *I'm developing a trading-related project as the final exam for my Programming class.*
+- 🔧 *I'm in the early stages of building my public portfolio. Watch this space — projects are on the way.*
+- 📊 *I'm developing a trading-related project as the final exam for my Programming class.*
 
 I'm actively looking to start new projects: collaborations, open-source contributions, or anything that puts real problems in front of me. If you have an idea and need a motivated partner, reach out.
 
