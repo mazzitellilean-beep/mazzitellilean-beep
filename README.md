@@ -5,8 +5,8 @@
 ### AI & Data Science Student · Employment-Ready · Lifelong Learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-mazzitelli/)
-[![Personal Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazzitelli.lean@gmail.com)
-[![Educational Mail](https://img.shields.io/badge/UADE_Mail-003087?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lmazzitelli@uade.edu.ar)
+[![Personal Mail](https://img.shields.io/badge/Personal_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazzitelli.lean@gmail.com)
+[![Educational Mail](https://img.shields.io/badge/Educational_Mail-003087?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lmazzitelli@uade.edu.ar)
 
 </div>
 
