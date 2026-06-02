@@ -57,8 +57,8 @@ I'm not looking for the perfect role — I'm looking for the right one to start 
 ## 🛠️ Programming Languages
 
 
-## Python 🐍
-## R Language `r icon::fontawesome("r-project", style = "brands")`
+### Python 🐍
+### R Language 
 
 
 
