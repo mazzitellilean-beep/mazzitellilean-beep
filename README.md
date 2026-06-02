@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Leandro Mazzitelli 👋
+# Hey, I'm Leandro Mazzitelli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ### AI & Data Science Student · Employment-Ready · Lifelong Learner
 
