@@ -33,7 +33,7 @@ My curriculum covers the full spectrum of modern AI and data work: statistical m
 
 ## 🏆 Python Hackathon @ UADE — Completed
 
-I **competed in and completed** an internal Python Hackathon at my university. It was a great opportunity to apply everything I had been learning under pressure, collaborate with peers, and push my skills further than coursework alone would take me.
+I competed in and completed an internal Python Hackathon at my university. It was a great opportunity to apply everything I had been learning under pressure, collaborate with peers, and push my skills further than coursework alone would take me.
 
 📁 **Want to see what I built?**  
 Check out the dedicated public repository — all the code, iterations, and problem-solving are documented there.
@@ -56,7 +56,7 @@ I'm not looking for the perfect role — I'm looking for the right one to start 
 
 ## 🛠️ Programming Languages
 
-### Python 🐍
+### Python
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -72,7 +72,7 @@ Currently learning R for statistical analysis and data science workflows.
 
 ---
 
-### SQL *(Learning)*
+### SQL *(Basic)*
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
