@@ -5,8 +5,8 @@
 ### AI & Data Science Student · Employment-Ready · Lifelong Learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-mazzitelli/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazzitelli.lean@gmail.com)
-[![UADE Mail](https://img.shields.io/badge/UADE_Mail-003087?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lmazzitelli@uade.edu.ar)
+[![Personal Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazzitelli.lean@gmail.com)
+[![Educational Mail](https://img.shields.io/badge/UADE_Mail-003087?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lmazzitelli@uade.edu.ar)
 
 </div>
 
@@ -54,15 +54,13 @@ I'm not looking for the perfect role — I'm looking for the right one to start 
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Programming Languages
 
-```
-Languages       →  Python · SQL
-Libraries       →  Pandas · NumPy · Matplotlib · Scikit-learn (learning)
-Concepts        →  Data Wrangling · EDA · Statistical Analysis · Machine Learning Basics
-Other           →  Git · GitHub · Jupyter Notebooks
-Currently Learning → Deep Learning · Data Visualization · Feature Engineering
-```
+
+## Python 🐍
+## R Language `r icon::fontawesome("r-project", style = "brands")`
+
+
 
 ---
 
