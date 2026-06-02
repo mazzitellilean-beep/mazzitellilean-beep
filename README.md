@@ -31,12 +31,12 @@ My curriculum covers the full spectrum of modern AI and data work: statistical m
 
 ---
 
-## 🐍 Python Hackathon @ UADE
+## 🏆 Python Hackathon @ UADE — Completed
 
-I'm currently **competing in an internal Python Hackathon** at my university. It's a great opportunity to apply everything I've been learning under pressure, collaborate with peers, and push my skills further than coursework alone would take me.
+I **competed in and completed** an internal Python Hackathon at my university. It was a great opportunity to apply everything I had been learning under pressure, collaborate with peers, and push my skills further than coursework alone would take me.
 
-📁 **Want to follow my progress?**  
-Check out the dedicated public repository for the hackathon — all the code, iterations, and problem-solving are documented there as the competition unfolds.
+📁 **Want to see what I built?**  
+Check out the dedicated public repository — all the code, iterations, and problem-solving are documented there.
 
 > (https://github.com/mazzitellilean-beep/copa-algoritmia)
 
@@ -56,17 +56,48 @@ I'm not looking for the perfect role — I'm looking for the right one to start 
 
 ## 🛠️ Programming Languages
 
-
 ### Python 🐍
-### R Language 
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+My primary language. Used in coursework, personal projects, and the UADE hackathon.
+
+---
+
+### R Language
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+Currently learning R for statistical analysis and data science workflows.
+
+---
+
+### SQL *(Learning)*
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Picking up SQL to work with relational databases and query real-world datasets.
+
+---
+
+## 📊 Data Science Skills
+
+### Statistics & Data Visualization
+
+Currently building foundational skills in:
+
+- **Descriptive & inferential statistics** — measures of central tendency, dispersion, probability distributions
+- **Data visualization** — creating meaningful plots and charts to communicate insights from data (histograms, scatter plots, boxplots, and more)
+- Applying these concepts in both **Python** (matplotlib, seaborn) and **R** (ggplot2)
 
 ---
 
 ## 🌱 Current Focus
 
-- Deepening my Python skills through the hackathon and personal projects
+- Deepening my Python skills through personal projects
+- Learning **R** for statistical computing and data analysis
+- Getting started with **SQL** for database querying
+- Strengthening my foundations in **statistics and data visualization**
 - Building a portfolio of end-to-end data projects
 - Exploring the full data pipeline: from raw data to actionable insights
 - Learning best practices for clean, reproducible, production-ready code
