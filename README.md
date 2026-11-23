@@ -22,7 +22,7 @@ I'm looking for my **first professional experience** — an **internship or juni
 
 ---
 
-## 📂 Featured Projects
+## 📂 Highlighted Projects
 
 ### 🎲 [BoardGameGeek Data Analysis](https://github.com/mazzitellilean-beep/BoardGameGeek-Data-Analysis-UADE) — *Completed*
 
@@ -49,27 +49,6 @@ My first personal data science project: an exploratory analysis comparing **GDP 
 
 ---
 
-### 💰 [Crypto Analytics Lab](https://github.com/mazzitellilean-beep/Crypto-Analytics-Lab01) — *Completed*
-
-Team project (5 members) for the course *Computational Thinking, Algorithms and Programming* at UADE: a console system to manage and analyze digital assets, built with Python's standard library only.
-
-- Separate catalog and portfolio, with create, delete and update operations and buy/sell transactions with available-unit checks
-- Input validation so the program never crashes on invalid data
-- Report of assets whose 24-hour trading volume exceeds the average
-- Delivered in two iterative releases, applying code review feedback (modular design, reusable functions, docstrings)
-
-`Python`
-
----
-
-### 🏆 [Copa Algoritmia UADE — 5th Edition](https://github.com/mazzitellilean-beep/copa-algoritmia) — *Completed*
-
-Programming tournament organized by **UADE and PwC Argentina** for first-year students. With my team *"Línea por línea"* (4 members), we solved three timed challenges in Python, from processing match results into a group standings table to simulating a football match on an ASCII pitch.
-
-`Python`
-
----
-
 ## 🎓 Education
 
 **Bachelor's Degree in Artificial Intelligence and Data Science** (4-year program)  
@@ -85,7 +64,6 @@ So far I've built a foundation in **Python and R programming, basic SQL, algebra
 |---|---|---|
 | **Cambridge First Certificate Exam (FCE)** — Score 183, CEFR level **C1** | Cambridge English | Feb 2026 |
 | **Introduction to Data Science with R** | UADE | Mar – Jun 2026 |
-| **Data Saturday LATAM Argentina** — Certificate of attendance | Data Saturday LATAM | Sept 2026 |
 
 ---
 
@@ -118,8 +96,8 @@ So far I've built a foundation in **Python and R programming, basic SQL, algebra
 
 ## 🌱 Current Focus
 
-- Finishing my **economic analysis project** and replicating it in **R**
-- Getting deeper into **SQL** and **Power BI**, with the goal of earning a Power BI certification
+- Finishing my **economic analysis project**
+- Getting deeper into **SQL** and **Power BI**, with the goal of earning a certification in both
 - Strengthening my foundations in **statistics and machine learning**
 - Writing clean, documented and **reproducible** notebooks
 
@@ -128,7 +106,7 @@ So far I've built a foundation in **Python and R programming, basic SQL, algebra
 ## 🌍 Languages
 
 - 🇦🇷 **Spanish** — Native
-- 🇬🇧 **English** — C1 (Cambridge First Certificate, score 183)
+- 🇬🇧 **English** — C1 (Cambridge First Certificate Exam Grade A, score 183)
 
 ---
 
