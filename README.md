@@ -2,7 +2,7 @@
 
 # Hey, I'm Leandro Mazzitelli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### AI & Data Science Student · Employment-Ready · Lifelong Learner
+### AI & Data Science Student · Data Analysis · Machine Learning · Advanced English (C1)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-mazzitelli/)
 [![Personal Mail](https://img.shields.io/badge/Personal_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazzitelli.lean@gmail.com)
@@ -14,101 +14,121 @@
 
 ## 🧠 About Me
 
-I'm a **Data Science and AI** student at **UADE** (Universidad Argentina de la Empresa), on a mission to turn curiosity into expertise — one dataset at a time.
+I'm an **Artificial Intelligence and Data Science** student at **UADE** (Universidad Argentina de la Empresa), based in Buenos Aires, Argentina.
 
-I'm at that exciting stage of my career where everything is still ahead of me: new tools to learn, first real projects to ship, and the groundwork of a professional life in tech to lay down. I don't just study data science — I'm genuinely obsessed with it. The intersection of mathematics, programming, and real-world decision-making is exactly where I want to be.
+I'm interested in **data analysis** and in using **artificial intelligence to optimize processes and support decision-making**. I learn best by building: most of the projects on this profile started as my own initiative to apply what I study to real data and real questions.
 
-I'm **available to start working immediately** and eager to contribute to teams where I can keep growing while delivering real value. Whether it's as a **Data Analyst**, **Data Scientist**, **Data Engineer** or **AI Engineer** — I'm in.
+I'm looking for my **first professional experience** — an **internship or junior role** in data analysis, data science or artificial intelligence, preferably **part-time (20 hours per week)** so I can keep studying alongside it.
+
+---
+
+## 📂 Featured Projects
+
+### 🎲 [BoardGameGeek Data Analysis](https://github.com/mazzitellilean-beep/BoardGameGeek-Data-Analysis-UADE) — *Completed*
+
+Team project (3 members) for the course *Python for Data Science* at UADE. We simulated a consulting engagement for a fictional board game publisher that needed to decide which game to produce.
+
+- Merged and cleaned two public datasets covering **21,000+ games**: missing values, logical inconsistencies and outliers
+- Segmented the market into **4 profiles with K-Means clustering**, choosing *k* with the elbow method and silhouette score
+- Trained **Linear Regression** and **Decision Tree** models against a baseline to predict a game's rating and popularity (MAE, RMSE)
+- Turned the analysis into a **concrete game profile recommendation**, documenting findings and limitations
+
+`pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `scikit-learn` · `Google Colab`
+
+---
+
+### 📈 [Economic Analysis of Argentina vs. South America (2010–2025)](https://github.com/mazzitellilean-beep/Analisis-economico-Argentina-2010-2025) — *In progress*
+
+My first personal data science project: an exploratory analysis comparing **GDP per capita, growth, inflation and unemployment** of Argentina with seven South American countries.
+
+- Integrated **World Bank (2010–2023)** and **IMF (2024–2025)** data: unit conversion, removal of duplicate years across sources and exclusion of estimated values
+- Documented every data cleaning and missing-value decision, so the analysis never mixes series with different methodologies
+- Next steps: finish the visualizations and conclusions, **replicate the analysis in R** and **load the data into SQLite** to query it with SQL
+
+`pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter Notebook`
+
+---
+
+### 💰 [Crypto Analytics Lab](https://github.com/mazzitellilean-beep/Crypto-Analytics-Lab01) — *Completed*
+
+Team project (5 members) for the course *Computational Thinking, Algorithms and Programming* at UADE: a console system to manage and analyze digital assets, built with Python's standard library only.
+
+- Separate catalog and portfolio, with create, delete and update operations and buy/sell transactions with available-unit checks
+- Input validation so the program never crashes on invalid data
+- Report of assets whose 24-hour trading volume exceeds the average
+- Delivered in two iterative releases, applying code review feedback (modular design, reusable functions, docstrings)
+
+`Python`
+
+---
+
+### 🏆 [Copa Algoritmia UADE — 5th Edition](https://github.com/mazzitellilean-beep/copa-algoritmia) — *Completed*
+
+Programming tournament organized by **UADE and PwC Argentina** for first-year students. With my team *"Línea por línea"* (4 members), we solved three timed challenges in Python, from processing match results into a group standings table to simulating a football match on an ASCII pitch.
+
+`Python`
 
 ---
 
 ## 🎓 Education
 
-**Bachelor's Degree in Artificial Intelligence and Data Science**  
-📍 Universidad Argentina de la Empresa (UADE) — *In progress*
+**Bachelor's Degree in Artificial Intelligence and Data Science** (4-year program)  
+📍 Universidad Argentina de la Empresa (UADE) — *Mar 2026 – present*
 
-My curriculum covers the full spectrum of modern AI and data work: statistical modeling, machine learning, data engineering, Python programming, deep learning fundamentals, and applied data analysis. I complement my coursework with self-directed learning — reading papers, following the field, and building things and personal projects.
-
----
-
-## 🏆 Python Hackathon @ UADE — Completed
-
-I competed in and completed an internal Python Hackathon at my university. It was a great opportunity to apply everything I had been learning under pressure, collaborate with peers, and push my skills further than coursework alone would take me.
-
-📁 **Want to see what I built?**  
-Check out the dedicated public repository — all the code, iterations, and problem-solving are documented there.
-
-> (https://github.com/mazzitellilean-beep/copa-algoritmia)
+So far I've built a foundation in **Python and R programming, basic SQL, algebra, calculus and AI ethics**, with a strong focus on **statistics** and the data science workflow: data collection and cleaning, exploratory analysis, modeling and communication of results.
 
 ---
 
-## 🚀 What I'm Looking For
+## 📜 Courses & Certifications
 
-- 🔍 **First professional experience** in data science, data analysis, or adjacent roles
-- 📊 Willing to start as a **Trainee** in any of the already mentioned roles
-- 🤝 Collaborative environments where I can **learn from experienced professionals**
-- 🛠️ Projects that involve **real data, real decisions, and real impact**
-- 🌱 Any opportunity that helps me **grow fast** and contribute meaningfully from day one
-
-I'm not looking for the perfect role — I'm looking for the right one to start building a serious career. I bring energy, adaptability, and a genuine drive to understand things deeply.
+| Certification | Issuer | Date |
+|---|---|---|
+| **Cambridge First Certificate Exam (FCE)** — Score 183, CEFR level **C1** | Cambridge English | Feb 2026 |
+| **Introduction to Data Science with R** | UADE | Mar – Jun 2026 |
+| **Data Saturday LATAM Argentina** — Certificate of attendance | Data Saturday LATAM | Sept 2026 |
 
 ---
 
-## 🛠️ Programming Languages
+## 🛠️ Tech Stack
 
-### Python
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-My primary language. Used in coursework, personal projects, and the UADE hackathon.
-
----
-
-### R Language
-
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_(basic)-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Currently learning R for statistical analysis and data science workflows.
+**Data analysis & machine learning**
 
----
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### SQL *(Basic)*
+**Tools**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-Picking up SQL to work with relational databases and query real-world datasets.
-
----
-
-## 📊 Data Science Skills
-
-### Statistics & Data Visualization
-
-Currently building foundational skills in:
-
-- **Descriptive & inferential statistics** — measures of central tendency, dispersion, probability distributions
-- **Data visualization** — creating meaningful plots and charts to communicate insights from data (histograms, scatter plots, boxplots, and more)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI_(basic)-F2C811?style=for-the-badge&logoColor=black)
 
 ---
 
 ## 🌱 Current Focus
 
-- Deepening my Python skills through personal projects
-- Learning **R** for statistical computing and data analysis
-- Getting started with **SQL** for database querying
-- Strengthening my foundations in **statistics and data visualization**
-- Building a portfolio of end-to-end data projects
-- Exploring the full data pipeline: from raw data to actionable insights
-- Learning best practices for clean, reproducible, production-ready code
+- Finishing my **economic analysis project** and replicating it in **R**
+- Getting deeper into **SQL** and **Power BI**, with the goal of earning a Power BI certification
+- Strengthening my foundations in **statistics and machine learning**
+- Writing clean, documented and **reproducible** notebooks
 
 ---
 
-## 📂 Projects
+## 🌍 Languages
 
-- 🔧 *I'm in the early stages of building my public portfolio. Watch this space — projects are on the way.*
-- 📊 *I'm developing a trading-related project as the final exam for my Programming class.*
-
-I'm actively looking to start new projects: collaborations, open-source contributions, or anything that puts real problems in front of me. If you have an idea and need a motivated partner, reach out.
+- 🇦🇷 **Spanish** — Native
+- 🇬🇧 **English** — C1 (Cambridge First Certificate, score 183)
 
 ---
 
@@ -122,14 +142,12 @@ I'm always open to conversations about opportunities, collaboration, or just tal
 | 📧 Personal Email | [mazzitelli.lean@gmail.com](mailto:mazzitelli.lean@gmail.com) |
 | 🎓 University Email | [lmazzitelli@uade.edu.ar](mailto:lmazzitelli@uade.edu.ar) |
 
-Don't hesitate to reach out — I respond quickly and I'm genuinely excited to connect.
-
 ---
 
 <div align="center">
 
 *"The best way to get started is to quit talking and begin doing."*
 
-**Available · Motivated · Ready to work**
+**Curious · Self-driven · Ready to learn**
 
 </div>
